@@ -46,7 +46,7 @@ h3#header {
   color: #868e96;
 }
 
-#header a:header {
+#header a:hover {
   text-decoration: underline;
 }
 
